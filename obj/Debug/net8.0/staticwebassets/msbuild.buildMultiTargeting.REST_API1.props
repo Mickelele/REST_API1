@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\REST_API1.props" />
+</Project>
